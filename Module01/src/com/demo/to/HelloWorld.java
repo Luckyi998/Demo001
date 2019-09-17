@@ -15,21 +15,11 @@ public class HelloWorld {
         String order = "order";
         ArrayList<Object> objects = new ArrayList<>();
         int i = 12;
+        String user ;
 
-        /**
-         * sdfds
-         */
-         private Integer sdfds ;
-          /**
-           * s
-           */
-           private String s ;
 
 
 
     }
 
-    public static void main(String[] args) {
-        System.out.println();
-    }
 }
