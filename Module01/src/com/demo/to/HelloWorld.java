@@ -16,20 +16,9 @@ public class HelloWorld {
         ArrayList<Object> objects = new ArrayList<>();
         int i = 12;
 
-        /**
-         * sdfds
-         */
-         private Integer sdfds ;
-          /**
-           * s
-           */
-           private String s ;
 
 
 
     }
 
-    public static void main(String[] args) {
-        System.out.println();
-    }
 }
