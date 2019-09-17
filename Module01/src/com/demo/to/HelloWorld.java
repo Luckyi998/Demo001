@@ -15,6 +15,8 @@ public class HelloWorld {
         String order = "order";
         ArrayList<Object> objects = new ArrayList<>();
         int i = 12;
+        String user ;
+        String sss ;
 
 
 
